@@ -23,8 +23,8 @@
 - **Vuelve a leer automáticamente los archivos** `set autoread`
 - **Ocultas los buffers sin que se escriban en el disco duro, solo se recuerdan y se ven en el historial** `set hidden`
 - **Habilita el número de líneas** `set nu`
-- `read | :r `
 - `jumps | :ju`
+
 
 ## Abrir, modificar Archivos
 
@@ -62,7 +62,6 @@
 ### Ejemplos
 
 - `:r !ls` **inserta en el documento el resultado y mostrara el resultado del directorio.**
-- dsa
 
 ## Guardar
 
